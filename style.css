@@ -63,8 +63,17 @@
     border: 2px solid cornflowerblue;
     cursor: pointer;
 }
-
-
+.prueba7{
+    margin: 10px;
+}
+.prueba7 .eti{
+    color: #222;
+    font-size: 25px;
+    font-weight: 550;
+}
+.prueba9 {
+    margin: 10px;
+}
 
 .titulo{
     color: #111;
