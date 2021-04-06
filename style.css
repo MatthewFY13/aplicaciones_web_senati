@@ -37,6 +37,34 @@
     color: #222;
     background: none;
 }
+.prueba5{
+    margin: 10px;
+}
+.prueba5 .boton{
+    display: inline-block;
+    background: crimson;
+    color: #222;
+    font-size: 18px;
+    padding: 2px 8px;
+    border-radius: 5px;
+    border: 2px solid crimson;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+.prueba5 .boton:hover{
+    color: #222;
+    background: none;
+}
+.prueba6{
+    background: cornflowerblue;
+    font-size: 18px;
+    padding: 2px 4px;
+    border-radius: 5px;
+    border: 2px solid cornflowerblue;
+    cursor: pointer;
+}
+
+
 
 .titulo{
     color: #111;
