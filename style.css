@@ -29,6 +29,7 @@
     font-size: 20px;
     padding: 8px 16px;
     margin-top: 8px;
+    border-radius: 15px;
     border: 2px solid cornflowerblue;
     transition: all 0.3s ease;
 }
