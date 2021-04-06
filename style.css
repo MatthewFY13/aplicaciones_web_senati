@@ -5,20 +5,34 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    text-decoration: none;
 }
 
 
 
 .title{
     color: cornflowerblue;
-    font-size: 35px;
+    font-size: 30px;
     text-align: center;
     background: #333;
 }
 .letras {
     color: black;
+    margin: 10px;
     font-size: 25px;
     font-weight: 600;
-    background: darkgrey;
-    text-align: center;
+}
+.letras a{
+    display: inline-block;
+    background: cornflowerblue;
+    color: #222;
+    font-size: 20px;
+    padding: 8px 16px;
+    margin-top: 8px;
+    border: 2px solid cornflowerblue;
+    transition: all 0.3s ease;
+}
+.letras a:hover{
+    color: #222;
+    background: none;
 }
