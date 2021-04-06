@@ -37,3 +37,18 @@
     color: #222;
     background: none;
 }
+
+.titulo{
+    color: #222;
+    margin: 10px;
+    font-size: 30px;
+}
+
+.texto{
+    background: #7b7e7e;
+    color: #000;
+    font-family: 'Poppins', sans-serif;
+    margin: 10px;
+    padding: 8px;
+    border-radius: 8px;
+}
